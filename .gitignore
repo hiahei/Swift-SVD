@@ -1,0 +1,14 @@
+*.pk
+*.safetensors
+*.json
+*.log
+*.model
+*.pt
+*.bin
+*.pth
+*.pyc
+log/
+svd_list/
+test_search/
+compressed_models/
+result_alloc/

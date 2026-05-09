@@ -1,0 +1,7 @@
+huggingface_hub==0.33.0
+matplotlib==3.10.3
+numpy==2.3.0
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.57.3
+lm-eval==0.4.9
