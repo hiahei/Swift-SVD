@@ -64,6 +64,26 @@ If you use this project, please cite:
 
 ---
 
+## 👥 Contributors
+
+This project is a joint effort by the following authors (listed in paper order):
+
+| Name | Role |
+|------|------|
+| Ruoling Qi | Co-first author * |
+| Yirui Liu | Co-first author *, Project Lead |
+| Xuaner Wu | |
+| Xiangyu Wang | |
+| Ming Li | |
+| Chen Chen | |
+| Jian Chen | Co-corresponding author † |
+| Yin Chen | |
+| Qizhen Weng | Co-corresponding author † |
+
+\* Equal contribution. † Equal advising.
+
+---
+
 ## ✍️ Acknowledgement
 
 This repository builds upon several excellent open-source projects. We sincerely thank the authors of [SVD-LLM](https://github.com/AIoT-MLSys-Lab/SVD-LLM), [ShortGPT](https://github.com/sramshetty/ShortGPT/tree/hf-models)&[llm-layer-importance](https://github.com/Hik289/llm-layer-importance), and [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) for their foundational contributions.
