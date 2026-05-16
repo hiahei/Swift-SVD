@@ -11,4 +11,4 @@ log/
 svd_list/
 test_search/
 compressed_models/
-result_alloc/
+result_alloc/.DS_Store
