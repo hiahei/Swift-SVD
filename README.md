@@ -37,27 +37,6 @@ bash run_uniform.sh
 bash run_dynamic.sh
 ```
 
-
----
-
-## 👥 Contributors
-
-This project is a joint effort by the following authors (listed in paper order):
-
-| Name | Role |
-|------|------|
-| Ruoling Qi | Co-first author * |
-| Yirui Liu | Co-first author *, Project Lead |
-| Xuaner Wu | |
-| Xiangyu Wang | |
-| Ming Li | |
-| Chen Chen | |
-| Jian Chen | Co-corresponding author † |
-| Yin Chen | |
-| Qizhen Weng | Co-corresponding author † |
-
-\* Equal contribution. † Equal advising.
-
 ---
 
 ## ✍️ Acknowledgement
