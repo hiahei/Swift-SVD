@@ -37,29 +37,6 @@ bash run_uniform.sh
 bash run_dynamic.sh
 ```
 
----
-
-
-## 📝 License
-
-MIT License
-
----
-
-## 📚 Citation
-
-If you use this project, please cite:
-
-```bibtex
-@inproceedings{
-anonymous2026swiftsvd,
-title={Swift-{SVD}: Theoretical Optimality Meets Practical Efficiency in Low-Rank {LLM} Compression},
-author={Anonymous},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=nAQ4h8FpdM}
-}
-```
 
 ---
 
@@ -91,4 +68,27 @@ Specifically, our model-specific `forward` implementation is adapted from **SVD-
 
 We are grateful to these wonderful and inspiring open-source projects.
 
+
 ---
+
+
+## 📝 License
+
+MIT License
+
+---
+
+## 📚 Citation
+
+If you use this project, please cite:
+
+```bibtex
+@inproceedings{
+anonymous2026swiftsvd,
+title={Swift-{SVD}: Theoretical Optimality Meets Practical Efficiency in Low-Rank {LLM} Compression},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=nAQ4h8FpdM}
+}
+```
