@@ -69,5 +69,5 @@ If you use this project, please cite:
     booktitle={Forty-third International Conference on Machine Learning},
     year={2026},
     url={https://openreview.net/forum?id=nAQ4h8FpdM}
-}
+    }
 ```
