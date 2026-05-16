@@ -12,3 +12,4 @@ svd_list/
 test_search/
 compressed_models/
 result_alloc/.DS_Store
+./update.sh

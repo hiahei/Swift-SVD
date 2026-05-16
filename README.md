@@ -51,14 +51,13 @@ MIT License
 If you use this project, please cite:
 
 ```bibtex
-@misc{qi2026swiftsvdtheoreticaloptimalitymeets,
-      title={Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression},
-      author={Ruoling Qi and Yirui Liu and Xuaner Wu and Xiangyu Wang and Ming Li and Chen Chen and Jian Chen and Yin Chen and Qizhen Weng},
-      year={2026},
-      eprint={2604.01609},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.01609},
+@inproceedings{
+anonymous2026swiftsvd,
+title={Swift-{SVD}: Theoretical Optimality Meets Practical Efficiency in Low-Rank {LLM} Compression},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=nAQ4h8FpdM}
 }
 ```
 
