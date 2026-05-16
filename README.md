@@ -63,7 +63,7 @@ If you use this project, please cite:
 
 ```bibtex
 @inproceedings{
-anonymous2026swiftsvd,
+qi2026swiftsvd,
 title={Swift-{SVD}: Theoretical Optimality Meets Practical Efficiency in Low-Rank {LLM} Compression},
 author={Qi, Ruoling and Liu, Yirui and Wu, Xuaner and Wang, Xiangyu and Li, Ming and Chen, Chen and Chen, Jian and Chen, Yin and Weng, Qizhen},
 booktitle={Forty-third International Conference on Machine Learning},
